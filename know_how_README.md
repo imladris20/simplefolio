@@ -1,4 +1,4 @@
-# Simplefolio ‚ö°Ô∏è [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# Simplefolio ??°Ô?? [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
 
 ## A minimal portfolio template for Developers!
 
@@ -9,29 +9,29 @@
 
 ## Features
 
-‚ö°Ô∏è Modern UI Design + Reveal Animations\
-‚ö°Ô∏è One Page Layout\
-‚ö°Ô∏è Styled with Bootstrap v4.3 + Custom SCSS\
-‚ö°Ô∏è Fully Responsive\
-‚ö°Ô∏è Valid HTML5 & CSS3\
-‚ö°Ô∏è Optimized with Parcel\
-‚ö°Ô∏è Well organized documentation
+??°Ô?? Modern UI Design + Reveal Animations\
+??°Ô?? One Page Layout\
+??°Ô?? Styled with Bootstrap v4.3 + Custom SCSS\
+??°Ô?? Fully Responsive\
+??°Ô?? Valid HTML5 & CSS3\
+??°Ô?? Optimized with Parcel\
+??°Ô?? Well organized documentation
 
 To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
 ---
 
-## Why do you need a portfolio? ‚òùÔ∏è
+## Why do you need a portfolio? ???Ô∏?
 
 - Professional way to showcase your work
 - Increases your visibility and online presence
-- Shows you‚Äôre more than just a resume
+- Shows you???re more than just a resume
 
-## Getting Started üöÄ
+## Getting Started ????
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites üìã
+### Prerequisites ????
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
 
@@ -41,7 +41,7 @@ npm@7.18.1 or higher
 git@2.30.1 or higher
 ```
 
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ‚òùÔ∏è
+Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ???Ô∏?
 
 ```
 yarn@v1.22.10 or higher
@@ -49,7 +49,7 @@ yarn@v1.22.10 or higher
 
 ---
 
-## How To Use üîß
+## How To Use ????
 
 From your command line, first clone Simplefolio:
 
@@ -324,18 +324,18 @@ $secondary-color: #00cdac;
 
 ---
 
-## Deployment üì¶
+## Deployment ????
 
 Once you finish your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
 
-## Others versions üë•
+## Others versions ????
 
 [Gatsby Simplefolio](https://github.com/cobiwave/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobiwave)\
 [Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
-## Technologies used üõ†Ô∏è
+## Technologies used ????Ô∏?
 
 - [Parcel](https://parceljs.org/) - Bundler
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Frontend component library
@@ -351,10 +351,10 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
 
-## License üìÑ
+## License ????
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments üéÅ
+## Acknowledgments ????
 
 I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
